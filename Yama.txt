@@ -1,0 +1,8 @@
+Group Yama
+
+These work are based on the Webdemo-master demostration
+
+In other word, some files are resued 
+
+And modified to suit the case of yoga class creation
+
