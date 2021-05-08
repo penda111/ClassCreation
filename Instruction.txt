@@ -1,0 +1,8 @@
+Turn on the local server:
+	cd *this file directory*
+	python demoapp\server.py
+
+Run the tests:
+	cd *this file directory*
+	robot create_tests
+	
